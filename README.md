@@ -4,6 +4,9 @@
   This is a simple list of Digimon monsters. You should be able to click on a digimon and then be presented with a modal containing some details.
 </p>
 
+<h2>Demo of App</h2>
+<p>Visit https://mcompass11.github.io/Digimon-App/ to try a live demo!</p>
+
 <h2>Features</h2>
   <ul>
     <li>Loaded data from an external source(API)</li>
